@@ -5,9 +5,10 @@ ruby '1.9.3'
 gem 'rails'
 
 gem 'bcrypt-ruby'
-gem 'pg'
-gem 'jquery-rails'
+gem 'foreigner'
 gem 'haml-rails'
+gem 'jquery-rails'
+gem 'pg'
 gem 'strong_parameters'
 
 group :assets do
